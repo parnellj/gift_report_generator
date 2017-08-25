@@ -28,7 +28,7 @@ A tool to rerieve and manipulate gift report files from the Advance donor manage
 
 ## Authors
 
-* **University of Utah** - *Initial work* - [parnellj](https://github.com/parnellj)
+* **Justin Parnell, University of Utah** - *Initial work* - [parnellj](https://github.com/parnellj)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
